@@ -65,4 +65,8 @@ public class Homework3 {
         //bij het printen converteren we b3 naar een binary literal in String vorm om de daadwerkelijke binaire som te krijgen
         System.out.println("b3: " + Integer.toBinaryString(b3));
     }
+
+    static void moduloCalculation(){
+
+    }
 }
